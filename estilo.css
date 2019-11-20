@@ -503,7 +503,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   width: 282px;
 }
 /* form                                                                   */
-/* form
+
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
 body {
   background-color: #e6e6e6;
@@ -519,8 +519,8 @@ div, textarea, input {
 }
 
 .container1 {
-  max-width: 510px;
-  min-width: 324px;
+  max-width: 900px;
+  min-width: 650px;
   margin: 50px auto 0px;
   background-color: #fff;
   border: 1px solid #cfcfcf;
@@ -547,6 +547,7 @@ div, textarea, input {
 }
 
 h1 {
+    color: #fff;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   display: inline-block;
@@ -558,6 +559,7 @@ h1 {
 }
 
 h3 {
+    color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-size: 1.25em;
