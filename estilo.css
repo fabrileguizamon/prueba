@@ -546,6 +546,10 @@ div, textarea, input {
   float: right;
 }
 
+.pull-right2 {
+  float: right;
+}
+
 h1 {
     color: #fff;
   font-family: 'Lato', sans-serif;
@@ -628,6 +632,7 @@ form ul li .divider {
 }
 form ul li .req {
   color: #ee9cb4;
+  float:left;
 }
 form label {
   display: block;
